@@ -13,4 +13,4 @@ Model performance can be seen in the Model_Performance.png and ROC_Curve_all_mod
 hospital_readmissions.csv is the dataset file
 
 
-All the Steps, Exploratory Data Analysis and Methodologies are documented in the Documentation_of_Problem_Statement.pdf 
+All the Steps, Exploratory Data Analysis and Methodologies are documented in the Tanay_Patil_IPD_Readmission_Prediction_Report.pdf 
