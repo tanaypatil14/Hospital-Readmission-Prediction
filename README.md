@@ -4,7 +4,7 @@ This repository contains a machine learning model trained on healthcare data to 
 
 The model utilizes multiple machine learning algoriths like Decision Trees, Random Forest, SVM, Gaussian Naive Bayes, Logistic Regression, XGBoost, LightGBM to predict the patient will be re-admitted or not.
 
-## All the code is available in the Hospital_Readmission_Prediction.ipynb file
-## Model performance can be seen in the Model_Performance.png and ROC_Curve_all_models.png
-## hospital_readmissions.csv is the dataset file
-## All the Steps, Exploratory Data Analysis and Methodologies are documented in the Documentation_of_Problem_Statement.pdf 
+# All the code is available in the Hospital_Readmission_Prediction.ipynb file
+# Model performance can be seen in the Model_Performance.png and ROC_Curve_all_models.png
+# hospital_readmissions.csv is the dataset file
+# All the Steps, Exploratory Data Analysis and Methodologies are documented in the Documentation_of_Problem_Statement.pdf 
